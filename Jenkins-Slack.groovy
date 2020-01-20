@@ -1,5 +1,6 @@
 // SOLUTION NO.1
 node{
+    checkout scm
     stage("intro"){
         echo "Hello from Jenkins"
     }
